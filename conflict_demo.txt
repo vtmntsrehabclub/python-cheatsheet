@@ -1,2 +1,2 @@
-B1-after-1
+B1-after-2
 common-line
